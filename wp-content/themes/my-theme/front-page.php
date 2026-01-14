@@ -9,14 +9,7 @@
       <h1 class="title">Find A Doctor</h1>
     </div>
 
-    <!-- <div class="titles">
-      <h1>At Almana Hospital's,</h1>
-      <p>We've proudly served our patients for over 75 years!. As a leader in Saudi Arabia's healthcare landscape,
-         we're dedicated to providing exceptional care to our patients.</p>
-         <h1>Find Your Doctor </h1>
-         <p>Building trusting relationships with our patients is paramount. Explore our extensive network of over 900 doctors and find the
-           one who best suits your needs. Search now! by location, or specialty.</p>
-    </div> -->
+
     <div class="about-container">
         <div class="about-content">
           <h3>At Almana Hospital's</h3>
