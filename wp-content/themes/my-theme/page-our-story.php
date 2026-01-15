@@ -101,7 +101,7 @@
                     <i class="fa-solid fa-flag"></i>
                 </div>
                 <h4>2020</h4>
-                <p>Intercare Medical Center</p>
+                <p>Jubha Medical Center</p>
             </div>
 
             <div class="timeline-item">
@@ -131,3 +131,55 @@
         </div>
     </div>
 </section>
+
+
+<!-- VISION & MISSION SECTION -->
+<section class="vision-mission">
+    <div class="vm-container">
+
+        <!-- OUR VISION -->
+        <div class="vm-box">
+            <div class="vm-icon">
+                <i class="fa-solid fa-eye"></i>
+            </div>
+            <h3>Our Vision</h3>
+            <p>
+                To be the leading healthcare provider in Cambodia that inspires and
+                nurtures the human spirit through trusted high quality, patient-centered
+                and responsible care.
+            </p>
+        </div>
+
+        <!-- OUR MISSION -->
+        <div class="vm-box">
+            <div class="vm-icon">
+                <i class="fa-solid fa-bullseye"></i>
+            </div>
+            <h3>Our Mission</h3>
+
+            <p>
+                Intercare is the trusted healthcare partner for our clients in Cambodia and
+                beyond. We offer a wide range of specialist and inter disciplinary medical
+                services that meet international standards of quality and safety.
+            </p>
+
+            <p>
+                We use innovative technology, collaborative networks, and evidence-based
+                practices to deliver patient-centered care that improves health outcomes,
+                satisfaction, and quality of life.
+            </p>
+
+            <p>
+                We are creating a hospital where everyone wants to work and be cared for by
+                fostering a culture of learning, excellence, and responsibility.
+            </p>
+
+            <p>
+                We build trusting relationships with our patients, customers, employees,
+                partners, and communities by being compassionate, transparent, and ethical.
+            </p>
+        </div>
+
+    </div>
+</section>
+

@@ -43,6 +43,6 @@
 
     <!-- Bottom -->
     <div class="footer-bottom">
-        <p>Copyright © 2024 Intercare Hospital. All right reserved</p>
+        <p>Copyright © 2026 Jubha Hospital. All right reserved</p>
     </div>
 </footer>
