@@ -61,7 +61,7 @@
 
                 </div>
                 <h3>Dr. Hean Sokhom Rathneary​</h3>
-                <p>General Practitioner & Pediatrician</p>
+                <p>General Practitioner & Aesthetics</p>
                 <button class="btn-profile">PROFILE</button>
               </div>
 
@@ -97,7 +97,7 @@
 
                 </div>
                 <h3>Dr. Hean Sokhom Rathneary​</h3>
-                <p>General Practitioner & Pediatrician</p>
+                <p>General Practitioner & Aesthetics</p>
                 <button class="btn-profile">PROFILE</button>
               </div>
 
@@ -132,7 +132,7 @@
 
                 </div>
                 <h3>Dr. Hean Sokhom Rathneary​</h3>
-                <p>General Practitioner & Pediatrician</p>
+                <p>General Practitioner & Aesthetics</p>
                 <button class="btn-profile">PROFILE</button>
               </div>
 
@@ -167,7 +167,7 @@
 
                 </div>
                 <h3>Dr. Hean Sokhom Rathneary​</h3>
-                <p>General Practitioner & Pediatrician</p>
+                <p>General Practitioner & Aesthetics</p>
                 <button class="btn-profile">PROFILE</button>
               </div>
 
