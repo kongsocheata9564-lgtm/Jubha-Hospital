@@ -37,7 +37,8 @@
 
               <div class="doctor-card">
                 <div class="doctor-img">
-                  <img src="wp-content/uploads/2026/01/docter4.jpg" alt="Doctor">
+                  <img src="<?php echo esc_url( get_stylesheet_directory_uri() . '/asset/docter4.jpg' ); ?>" alt="Director">
+
                 </div>
                 <h3>Dr. Hean Sokhom Rathneary​</h3>
                 <p>General Practitioner & Aesthetics</p>
@@ -46,7 +47,8 @@
 
               <div class="doctor-card">
                 <div class="doctor-img">
-                  <img src="wp-content/uploads/2026/01/docter4.jpg" alt="Doctor">
+                    <img src="<?php echo esc_url( get_stylesheet_directory_uri() . '/asset/docter4.jpg' ); ?>" alt="Director">
+
                 </div>
                 <h3>Dr. Hean Sokhom Rathneary​</h3>
                 <p>General Practitioner & Aesthetics</p>
@@ -55,7 +57,8 @@
 
               <div class="doctor-card">
                 <div class="doctor-img">
-                  <img src="wp-content/uploads/2026/01/docter4.jpg" alt="Doctor">
+                  <img src="<?php echo esc_url( get_stylesheet_directory_uri() . '/asset/docter4.jpg' ); ?>" alt="Director">
+
                 </div>
                 <h3>Dr. Hean Sokhom Rathneary​</h3>
                 <p>General Practitioner & Pediatrician</p>
@@ -65,12 +68,13 @@
             </div>
       </section>
 
-      <section class="doctor-section">
+       <section class="doctor-section">
             <div class="doctor-grid">
 
               <div class="doctor-card">
                 <div class="doctor-img">
-                  <img src="wp-content/uploads/2026/01/docter4.jpg" alt="Doctor">
+                  <img src="<?php echo esc_url( get_stylesheet_directory_uri() . '/asset/docter4.jpg' ); ?>" alt="Director">
+
                 </div>
                 <h3>Dr. Hean Sokhom Rathneary​</h3>
                 <p>General Practitioner & Aesthetics</p>
@@ -79,7 +83,8 @@
 
               <div class="doctor-card">
                 <div class="doctor-img">
-                  <img src="wp-content/uploads/2026/01/docter4.jpg" alt="Doctor">
+                    <img src="<?php echo esc_url( get_stylesheet_directory_uri() . '/asset/docter4.jpg' ); ?>" alt="Director">
+
                 </div>
                 <h3>Dr. Hean Sokhom Rathneary​</h3>
                 <p>General Practitioner & Aesthetics</p>
@@ -88,7 +93,8 @@
 
               <div class="doctor-card">
                 <div class="doctor-img">
-                  <img src="wp-content/uploads/2026/01/docter4.jpg" alt="Doctor">
+                  <img src="<?php echo esc_url( get_stylesheet_directory_uri() . '/asset/docter4.jpg' ); ?>" alt="Director">
+
                 </div>
                 <h3>Dr. Hean Sokhom Rathneary​</h3>
                 <p>General Practitioner & Pediatrician</p>
@@ -97,13 +103,13 @@
 
             </div>
       </section>
-
-      <section class="doctor-section">
+       <section class="doctor-section">
             <div class="doctor-grid">
 
               <div class="doctor-card">
                 <div class="doctor-img">
-                  <img src="wp-content/uploads/2026/01/docter4.jpg" alt="Doctor">
+                  <img src="<?php echo esc_url( get_stylesheet_directory_uri() . '/asset/docter4.jpg' ); ?>" alt="Director">
+
                 </div>
                 <h3>Dr. Hean Sokhom Rathneary​</h3>
                 <p>General Practitioner & Aesthetics</p>
@@ -112,7 +118,8 @@
 
               <div class="doctor-card">
                 <div class="doctor-img">
-                  <img src="wp-content/uploads/2026/01/docter4.jpg" alt="Doctor">
+                    <img src="<?php echo esc_url( get_stylesheet_directory_uri() . '/asset/docter4.jpg' ); ?>" alt="Director">
+
                 </div>
                 <h3>Dr. Hean Sokhom Rathneary​</h3>
                 <p>General Practitioner & Aesthetics</p>
@@ -121,7 +128,8 @@
 
               <div class="doctor-card">
                 <div class="doctor-img">
-                  <img src="wp-content/uploads/2026/01/docter4.jpg" alt="Doctor">
+                  <img src="<?php echo esc_url( get_stylesheet_directory_uri() . '/asset/docter4.jpg' ); ?>" alt="Director">
+
                 </div>
                 <h3>Dr. Hean Sokhom Rathneary​</h3>
                 <p>General Practitioner & Pediatrician</p>
@@ -130,12 +138,13 @@
 
             </div>
       </section>
-      <section class="doctor-section">
+       <section class="doctor-section">
             <div class="doctor-grid">
 
               <div class="doctor-card">
                 <div class="doctor-img">
-                  <img src="wp-content/uploads/2026/01/docter4.jpg" alt="Doctor">
+                  <img src="<?php echo esc_url( get_stylesheet_directory_uri() . '/asset/docter4.jpg' ); ?>" alt="Director">
+
                 </div>
                 <h3>Dr. Hean Sokhom Rathneary​</h3>
                 <p>General Practitioner & Aesthetics</p>
@@ -144,7 +153,8 @@
 
               <div class="doctor-card">
                 <div class="doctor-img">
-                  <img src="wp-content/uploads/2026/01/docter4.jpg" alt="Doctor">
+                    <img src="<?php echo esc_url( get_stylesheet_directory_uri() . '/asset/docter4.jpg' ); ?>" alt="Director">
+
                 </div>
                 <h3>Dr. Hean Sokhom Rathneary​</h3>
                 <p>General Practitioner & Aesthetics</p>
@@ -153,7 +163,8 @@
 
               <div class="doctor-card">
                 <div class="doctor-img">
-                  <img src="wp-content/uploads/2026/01/docter4.jpg" alt="Doctor">
+                  <img src="<?php echo esc_url( get_stylesheet_directory_uri() . '/asset/docter4.jpg' ); ?>" alt="Director">
+
                 </div>
                 <h3>Dr. Hean Sokhom Rathneary​</h3>
                 <p>General Practitioner & Pediatrician</p>
@@ -162,7 +173,6 @@
 
             </div>
       </section>
-
 
 </div>
 
