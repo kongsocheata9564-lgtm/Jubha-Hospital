@@ -1,0 +1,69 @@
+<link rel="stylesheet" href="<?= get_template_directory_uri(); ?>/style.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
+
+<header class="main-header">
+
+
+    <div class="top-bar">
+        <div class="logo">
+            <img src="<?php echo esc_url( get_stylesheet_directory_uri() . '/asset/jubha-logo2-removebg-preview.png' ); ?>" alt="Director">
+        </div>
+        </div>
+
+        <div class="top-actions">
+            <a href="#" class="careers">Careers</a>
+
+            <div class="btn">
+            <a href="#" class="btn-appointment">
+                <i class="fa-regular fa-calendar"></i>
+                Book an Appointment
+            </a>
+            </div>
+
+            <a href="#" class="user-icon">
+                <i class="fa-regular fa-user"></i>
+            </a>
+        </div>
+    </div>
+
+    
+    <nav class="navbar">
+        <ul class="nav-menu">
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Find A Doct</a></li>
+
+            <!-- <li class="dropdown">
+                <a href="#">Hospital & Clinics <i class="fa-solid fa-chevron-down"></i></a>
+                <ul class="dropdown-menu">
+                    <li><a href="#">Hospitals</a></li>
+                    <li><a href="#">Clinics</a></li>
+                </ul>
+            </li> -->
+
+            <li class="dropdown">
+                <a href="#">Patient Information <i class="fa-solid fa-chevron-down"></i></a>
+                <ul class="dropdown-menu">
+                    <li><a href="#">Insurance</a></li>
+                    <li><a href="#">Visitor Guide</a></li>
+                </ul>
+            </li>
+
+            <li class="dropdown">
+                <a href="#">About Our Hospital <i class="fa-solid fa-chevron-down"></i></a>
+                <ul class="dropdown-menu">
+                    <li><a href="#">Who We Are</a></li>
+                    <li><a href="#">Leadership</a></li>
+                </ul>
+            </li>
+            <li><a href="#">Contact Us</a></li>
+
+            <!-- <li><a href="#">Media</a></li>
+            <li><a href="#">Contact</a></li> -->
+
+            <!-- <li class="highlight">
+                <a href="#">National Day Offers</a>
+            </li> -->
+        </ul>
+    </nav>
+</header>
