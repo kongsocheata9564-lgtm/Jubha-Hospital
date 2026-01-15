@@ -54,12 +54,15 @@
                 <a href="#">About Our Hospital <i class="fa-solid fa-chevron-down"></i></a>
                 <ul class="dropdown-menu">
                     <li><a href="' . esc_url( http://jubha-hospital.test/our-story/ ) . '">Our Story</a></li>
-                    <li><a href="#">Leadership</a></li>
+                    <li><a href="#">News & Event</a></li>
+                    <li><a href="' . esc_url( http://jubha-hospital.test/specialties/ ) . '">Specialties</a></li>
+                    <li><a href="' . esc_url( http://jubha-hospital.test/jubha-shop/ ) . '">Jubha Shop</a></li>
+
+                    
                 </ul>
             </li>
             <li><a href="#">Contact Us</a></li>
-            <li><a href="' . esc_url( http://jubha-hospital.test/jubha-shop/ ) . '">Jubha Shop</a></li>
-
+            
             <!-- <li><a href="#">Media</a></li>
             <li><a href="#">Contact</a></li> -->
 

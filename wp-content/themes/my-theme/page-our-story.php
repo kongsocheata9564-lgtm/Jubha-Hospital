@@ -133,53 +133,82 @@
 </section>
 
 
-<!-- VISION & MISSION SECTION -->
-<section class="vision-mission">
-    <div class="vm-container">
+<!-- VISION & MISSION – STYLE 3 -->
+<section class="vm-style-three">
+    <div class="vm-wrapper">
 
-        <!-- OUR VISION -->
-        <div class="vm-box">
-            <div class="vm-icon">
-                <i class="fa-solid fa-eye"></i>
-            </div>
-            <h3>Our Vision</h3>
-            <p>
-                To be the leading healthcare provider in Cambodia that inspires and
-                nurtures the human spirit through trusted high quality, patient-centered
-                and responsible care.
-            </p>
+        <!-- SECTION HEADER -->
+        <div class="vm-head">
+            <span>Who We Are</span>
+            <h2>Our Vision & Mission</h2>
         </div>
 
-        <!-- OUR MISSION -->
-        <div class="vm-box">
-            <div class="vm-icon">
-                <i class="fa-solid fa-bullseye"></i>
+        <div class="vm-grid">
+
+            <!-- VISION -->
+            <div class="vm-item">
+                <div class="vm-badge">
+                    <i class="fa-solid fa-eye"></i>
+                </div>
+
+                <h3>Our Vision</h3>
+
+                <p>
+                    To be the leading healthcare provider in Cambodia that inspires and
+                    nurtures the human spirit through trusted high quality, patient-centered
+                    and responsible care.
+                </p>
             </div>
-            <h3>Our Mission</h3>
 
-            <p>
-                Intercare is the trusted healthcare partner for our clients in Cambodia and
-                beyond. We offer a wide range of specialist and inter disciplinary medical
-                services that meet international standards of quality and safety.
-            </p>
+            <!-- MISSION -->
+            <div class="vm-item vm-mission">
+                <div class="vm-badge">
+                    <i class="fa-solid fa-bullseye"></i>
+                </div>
 
-            <p>
-                We use innovative technology, collaborative networks, and evidence-based
-                practices to deliver patient-centered care that improves health outcomes,
-                satisfaction, and quality of life.
-            </p>
+                <h3>Our Mission</h3>
 
-            <p>
-                We are creating a hospital where everyone wants to work and be cared for by
-                fostering a culture of learning, excellence, and responsibility.
-            </p>
+                <ul>
+                    <li>Trusted healthcare partner in Cambodia and beyond</li>
+                    <li>International standards of quality and safety</li>
+                    <li>Innovative, evidence-based patient-centered care</li>
+                    <li>Culture of learning, excellence, and responsibility</li>
+                    <li>Compassionate, transparent, and ethical relationships</li>
+                </ul>
+            </div>
 
-            <p>
-                We build trusting relationships with our patients, customers, employees,
-                partners, and communities by being compassionate, transparent, and ethical.
-            </p>
         </div>
 
     </div>
 </section>
+
+
+
+<section class="connect-subscribe">
+    <div class="container">
+
+        <!-- Left: Social Media -->
+        <div class="connect">
+            <h3>CONNECT WITH US</h3>
+            <div class="social-icons">
+                <a href="#"><i class="fab fa-facebook-f"></i></a>
+                <a href="#"><i class="fab fa-linkedin-in"></i></a>
+                <a href="#"><i class="fab fa-telegram-plane"></i></a>
+                <a href="#"><i class="fab fa-youtube"></i></a>
+            </div>
+        </div>
+
+        <!-- Right: Newsletter -->
+        <div class="subscribe">
+            <h3>SUBSCRIBE OUR NEWSLETTER</h3>
+            <form class="subscribe-form" method="post">
+                <input type="email" placeholder="Enter Your Email..." required>
+                <button type="submit">Subscribe</button>
+            </form>
+        </div>
+
+    </div>
+</section>
+
+<?php get_footer(); ?>
 
