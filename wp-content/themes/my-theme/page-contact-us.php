@@ -102,3 +102,5 @@
   <div class="location">
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31273.2101866894!2d104.8470770108398!3d11.541004200000016!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31095183540eca35%3A0xbe81b4dcb0be7468!2sEcoDent%20Dental%20Clinic!5e0!3m2!1sen!2skh!4v1766717062822!5m2!1sen!2skh" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>          
   </div>
+
+  <?php get_footer(); ?>
