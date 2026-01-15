@@ -30,7 +30,7 @@
     
     <nav class="navbar">
         <ul class="nav-menu">
-            <li><a href="#">Home</a></li>
+            <li><a href="' . esc_url( http://jubha-hospital.test/ ) . '">Home</a></li>
             <li><a href="#">Find A Doct</a></li>
 
             <!-- <li class="dropdown">
@@ -44,19 +44,21 @@
             <li class="dropdown">
                 <a href="#">Patient Information <i class="fa-solid fa-chevron-down"></i></a>
                 <ul class="dropdown-menu">
-                    <li><a href="#">Insurance</a></li>
-                    <li><a href="#">Visitor Guide</a></li>
+                    <li><a href="' . esc_url( http://jubha-hospital.test/in-patient/ ) . '">In Patient</a></li>
+                    <li><a href="' . esc_url( http://jubha-hospital.test/outpatient/ ) . '">Outpatient</a></li>
+                    <li><a href="' . esc_url( http://jubha-hospital.test/visitor-information/ ) . '">Visitor Information</a></li>
                 </ul>
             </li>
 
             <li class="dropdown">
                 <a href="#">About Our Hospital <i class="fa-solid fa-chevron-down"></i></a>
                 <ul class="dropdown-menu">
-                    <li><a href="#">Who We Are</a></li>
+                    <li><a href="' . esc_url( http://jubha-hospital.test/our-story/ ) . '">Our Story</a></li>
                     <li><a href="#">Leadership</a></li>
                 </ul>
             </li>
             <li><a href="#">Contact Us</a></li>
+            <li><a href="' . esc_url( http://jubha-hospital.test/jubha-shop/ ) . '">Jubha Shop</a></li>
 
             <!-- <li><a href="#">Media</a></li>
             <li><a href="#">Contact</a></li> -->

@@ -1,0 +1,290 @@
+.page-header-section {
+    background-color: #eef6fb; /* Light blueish/grey background */
+    padding: 60px 0;           /* Vertical spacing */
+    font-family: 'Arial', sans-serif;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+/* Breadcrumb Styling */
+.breadcrumb {
+    margin-bottom: 15px;
+    font-size: 14px;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+}
+
+.breadcrumb-link {
+    color: #1aa3c8; /* Light blue color */
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.breadcrumb-link:hover {
+    color: #0a5ca8;
+}
+
+.breadcrumb-separator {
+    color: #0a5ca8; /* Darker blue color */
+    margin: 0 8px;
+}
+
+.breadcrumb-current {
+    color: #0a5ca8; /* Darker blue color */
+}
+
+/* Title Styling */
+.page-title {
+    color: #0a5ca8;    /* Dark navy blue */
+    font-size: 48px;   /* Large bold font */
+    font-weight: 800;
+    margin: 0;
+    text-transform: uppercase;
+}
+
+
+
+/* Container sizing */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.hospital-intro {
+    padding: 80px 0;
+    font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    background-color: #ffffff;
+    position: relative;
+}
+
+.intro-grid {
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}
+
+/* Text Styling */
+.intro-content {
+    flex: 1;
+}
+
+.section-title {
+    color: #0a5ca8; /* Professional Navy Blue */
+    font-size: 2.2rem;
+    margin-bottom: 25px;
+    font-weight: 700;
+}
+
+.intro-text p {
+    color: #444;
+    line-height: 1.8;
+    margin-bottom: 20px;
+    font-size: 1.05rem;
+}
+
+/* Image Styling */
+.intro-image {
+    flex: 1;
+}
+
+.intro-image img {
+    width: 100%;
+    height: auto;
+    border-radius: 12px;
+    box-shadow: 0 15px 35px rgba(0,0,0,0.1);
+    display: block;
+}
+
+/* Floating Chat Icon (Bottom Right) */
+/* .floating-chat {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    background-color: #0a5ca8;
+    color: white;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 24px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+    cursor: pointer;
+    transition: transform 0.3s ease;
+    z-index: 1000;
+}
+
+.floating-chat:hover {
+    transform: scale(1.1);
+} */
+
+
+
+
+/* OUR JOURNEY */
+.our-journey {
+    padding: 80px 0;
+    background: #fff;
+}
+
+.container {
+    max-width: 1200px;
+    margin: auto;
+    padding: 0 20px;
+}
+
+.section-title {
+    font-size: 34px;
+    font-weight: 700;
+    color: #0b3c5d;
+    margin-bottom: 50px;
+}
+
+/* Cards */
+.journey-cards {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 25px;
+    margin-bottom: 60px;
+}
+
+.journey-card {
+    background: #fff;
+    border-radius: 14px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.08);
+    padding: 20px;
+
+    transition: all 0.3s ease;
+}
+
+.journey-card img {
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.journey-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 6px 15px rgba(0,0,0,0.1);
+}
+
+.journey-card p {
+    font-size: 15px;
+    line-height: 1.6;
+    color: #333;
+}
+
+/* TIMELINE */
+.timeline {
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+/* ONE STRAIGHT LINE */
+.timeline-line {
+    position: absolute;
+    top: 30px;
+    left: 0;
+    width: 100%;
+    height: 2px;
+    background: #dcdcdc;
+    z-index: 0;
+}
+
+/* ITEM */
+.timeline-item {
+    width: 25%;
+    text-align: center;
+    position: relative;
+    z-index: 1;
+}
+
+/* ICON CIRCLE */
+.timeline-circle {
+    width: 60px;
+    height: 60px;
+    background: #0a5ca8;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    font-size: 20px;
+    color: #f3eeee;
+}
+
+/* TEXT */
+.timeline-item h4 {
+    margin-top: 16px;
+    font-size: 20px;
+    font-family: Georgia, serif;
+    font-weight: 700;
+    color: #0a5ca8;
+}
+
+.timeline-item p {
+    font-size: 16px;
+    font-family: Georgia, serif;
+    color: #1aa3c8;
+}
+
+
+
+/* VISION & MISSION SECTION */
+.vision-mission {
+    background: #ffffff;
+    padding: 100px 0;
+}
+
+.vm-container {
+    max-width: 1200px;
+    margin: auto;
+    padding: 0 24px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 80px;
+}
+
+/* BOX */
+.vm-box {
+    color: #333;
+}
+
+.vm-icon {
+    width: 64px;
+    height: 64px;
+    margin-bottom: 20px;
+}
+
+.vm-icon i {
+    font-size: 48px;
+    color: #0a5aa5;
+}
+
+/* TITLES */
+.vm-box h3 {
+    font-size: 28px;
+    font-weight: 700;
+    color: #0a5aa5;
+    margin-bottom: 16px;
+}
+
+/* TEXT */
+.vm-box p {
+    font-size: 17px;
+    line-height: 1.7;
+    color: #4a4a4a;
+    margin-bottom: 18px;
+}
+
+
+
