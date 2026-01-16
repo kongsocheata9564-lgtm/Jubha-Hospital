@@ -1,0 +1,41 @@
+.header {
+  background: #eef6fb;
+  padding: 50px 60px;
+}
+
+.path {
+  font-size: 20px;
+  color: #3bb4e5;
+  margin-bottom: 8px;
+}
+
+.path a {
+  color: #3bb4e5;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.path span {
+ color: #0a5ca8;
+ font-weight: bold;
+}
+.title {
+  font-size: 36px;
+  font-weight: bold;
+  color: #0a5ca8;
+  margin: 0;
+}
+
+/* .container {
+  padding: 50px 60px;
+  background-color: pink;
+  
+} */
+
+.container {
+  padding: 50px 60px;
+  display: flex;
+  gap: 40px;
+  align-items: center;
+  background-color: palevioletred;
+}
