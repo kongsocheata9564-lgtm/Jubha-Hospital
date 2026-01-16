@@ -276,7 +276,7 @@ prevBtn.addEventListener('click', function () {
                 Intercare Hospital has health packages for all your needs,
                 plus special offers!
             </p>
-            <a href="#" class="hp-btn">VIEW ALL PACKAGE</a>
+            <a href="' . esc_url( http://jubha-hospital.test/jubha-shop/ ) . '" class="hp-btn">VIEW ALL PACKAGE</a>
         </div>
 
         <!-- RIGHT SLIDER -->
