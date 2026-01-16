@@ -55,12 +55,21 @@
                 <ul class="dropdown-menu">
                     <li><a href="' . esc_url( http://jubha-hospital.test/our-story/ ) . '">Our Story</a></li>
                     <li><a href="' . esc_url( http://jubha-hospital.test/news-event/ ) . '">News & Event</a></li>
-                    <li><a href="' . esc_url( http://jubha-hospital.test/specialties/ ) . '">Specialties</a></li>
                     <li><a href="' . esc_url( http://jubha-hospital.test/jubha-shop/ ) . '">Jubha Shop</a></li>
 
                     
                 </ul>
             </li>
+            <li class="dropdown">
+                <a href="' . esc_url( http://jubha-hospital.test/specialties/ ) . '">Specialties <i class="fa-solid fa-chevron-down"></i></a>
+                <ul class="dropdown-menu">
+                    <li><a href="' . esc_url( http://jubha-hospital.test/surgery/ ) . '">Surgery</a></li>
+                    <li><a href="' . esc_url( http://jubha-hospital.test/news-event/ ) . '">General Practice</a></li>
+                    <li><a href="' . esc_url( http://jubha-hospital.test/specialties/ ) . '">Maternity</a></li>
+                    <li><a href="' . esc_url( http://jubha-hospital.test/jubha-shop/ ) . '">Padiatric</a></li>
+                    <li><a href="' . esc_url( http://jubha-hospital.test/jubha-shop/ ) . '">Child Wellness</a></li>
+                </ul>
+
             <li><a href="#">Contact Us</a></li>
             
             <!-- <li><a href="#">Media</a></li>

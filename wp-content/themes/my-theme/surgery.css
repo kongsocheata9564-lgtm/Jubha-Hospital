@@ -1,0 +1,184 @@
+.page-header-section {
+    background-color: #eef6fb; /* Light blueish/grey background */
+    padding: 60px 0;           /* Vertical spacing */
+    font-family: 'Arial', sans-serif;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+/* Breadcrumb Styling */
+.breadcrumb {
+    margin-bottom: 15px;
+    font-size: 14px;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+}
+
+.breadcrumb-link {
+    color: #1aa3c8; /* Light blue color */
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.breadcrumb-link:hover {
+    color: #0a5ca8;
+}
+
+.breadcrumb-separator {
+    color: #0a5ca8; /* Darker blue color */
+    margin: 0 8px;
+}
+
+.breadcrumb-current {
+    color: #0a5ca8; /* Darker blue color */
+}
+
+/* Title Styling */
+.page-title {
+    color: #0a5ca8;    /* Dark navy blue */
+    font-size: 48px;   /* Large bold font */
+    font-weight: 800;
+    margin: 0;
+    text-transform: uppercase;
+}
+
+
+/* Department Section Styles */
+.dept-section {
+    padding: 80px 20px;
+    background-color: #ffffff;
+    font-family: 'Segoe UI', Roboto, sans-serif;
+}
+
+.dept-container {
+    max-width: 1100px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    gap: 60px;
+    flex-wrap: wrap; /* Ensures responsiveness on mobile */
+}
+
+.dept-content {
+    flex: 1;
+    min-width: 300px;
+}
+
+.dept-title {
+    font-size: 2rem;
+    color: #004a8c; /* Modern medical blue */
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 10px;
+}
+
+.dept-underline {
+    width: 450px;
+    height: 4px;
+    background-color: #00aaff; /* Accent light blue */
+    margin-bottom: 25px;
+}
+
+.dept-description {
+    font-size: 1.1rem;
+    line-height: 1.7;
+    color: #555;
+    margin-bottom: 20px;
+}
+
+
+
+.dept-cta:hover {
+    background-color: #00aaff;
+}
+
+/* Layered Image Effect */
+.dept-image-wrapper {
+    flex: 1;
+    min-width: 300px;
+    position: relative;
+    z-index: 1;
+}
+
+.dept-img {
+    width: 100%;
+    height: auto;
+    border-radius: 15px;
+    box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+    display: block;
+    position: relative;
+    z-index: 2;
+}
+
+
+/* Student Section Styling */
+.student-services {
+    padding: 50px 20px;
+    background-color: #ffffff;
+    font-family: 'Inter', -apple-system, sans-serif;
+}
+
+.s-container {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.s-header {
+    font-size: 24px;
+    font-weight: 700;
+    color: #2d3436;
+    margin-bottom: 30px;
+    letter-spacing: -0.5px;
+}
+
+/* Flex Wrapper */
+.s-pills-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    justify-content: center;
+}
+
+/* Individual Pill */
+.s-pill {
+    display: flex;
+    align-items: center;
+    padding: 12px 24px;
+    border-radius: 50px; /* Fully rounded like a pill */
+    background: #f1f3f5;
+    transition: all 0.2s ease;
+    border: 2px solid transparent;
+    cursor: pointer;
+}
+
+.s-pill:hover {
+    transform: scale(1.05);
+    background: #fff;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+
+.s-icon {
+    margin-right: 12px;
+    font-size: 18px;
+}
+
+.s-text {
+    font-size: 15px;
+    font-weight: 600;
+    color: #444;
+}
+
+/* Student-Friendly Colors */
+.blue { color: #0984e3; border-color: #74b9ff; background: #ebf5ff; }
+.green { color: #27ae60; border-color: #55efc4; background: #e6faf1; }
+.purple { color: #6c5ce7; border-color: #a29bfe; background: #f3f0ff; }
+.orange { color: #e67e22; border-color: #fab1a0; background: #fff4e6; }
+.red { color: #d63031; border-color: #ff7675; background: #fff0f0; }
+
+
+
