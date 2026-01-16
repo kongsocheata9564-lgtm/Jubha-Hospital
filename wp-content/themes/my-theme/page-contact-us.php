@@ -60,7 +60,7 @@
     <div class="contact-box">
     
         <div class="left-info">
-            <div class="doctor-img">
+            <div class="doctor-pic">
                 <img src="<?php echo esc_url( get_stylesheet_directory_uri() . '/asset/images/Doctors Day Blog.jpg' ); ?>" alt="Director">
 
 
