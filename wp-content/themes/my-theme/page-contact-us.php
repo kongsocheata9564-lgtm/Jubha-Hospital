@@ -3,10 +3,12 @@
 
 <?php get_header(); ?>
 
-     <div class=" contact-us">
-        <p> <span >Home </span>/ Contact Us</p>
-        <h1> Contact Us</h1>
-     </div>
+    <div class="header">
+        <div class="path">
+            <a href="#">Home</a>  <span>/ Careers</span>
+        </div>
+        <h1 class="title">Careers</h1>
+    </div>
 
      
     <section class="contact-section">
