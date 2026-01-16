@@ -55,8 +55,22 @@
                 <ul class="dropdown-menu">
                     <li><a href="' . esc_url( http://jubha-hospital.test/our-story/ ) . '">Our Story</a></li>
                     <li><a href="' . esc_url( http://jubha-hospital.test/news-event/ ) . '">News & Event</a></li>
-                    <li><a href="' . esc_url( http://jubha-hospital.test/specialties/ ) . '">Specialties</a></li>
+                    <!-- <li><a href="' . esc_url( http://jubha-hospital.test/specialties/ ) . '">Specialties</a></li> -->
                     <li><a href="' . esc_url( http://jubha-hospital.test/jubha-shop/ ) . '">Jubha Shop</a></li>
+
+                    
+                </ul>
+            </li>
+
+            <li class="dropdown">
+                <a href="#">Specialties <i class="fa-solid fa-chevron-down"></i></a>
+                <ul class="dropdown-menu">
+                    <li><a href="' . esc_url( http://jubha-hospital.test/surgery/ ) . '">Surgery</a></li>
+                    <li><a href="' . esc_url( http://jubha-hospital.test/general-practice/ ) . '">General Practice</a></li>
+                    <li><a href="' . esc_url( http://jubha-hospital.test/maternity/ ) . '">Maternity</a></li>
+                    <li><a href="' . esc_url( http://jubha-hospital.test/padiatric/ ) . '">Padiatric</a></li>
+                    <li><a href="' . esc_url( http://jubha-hospital.test/child-wellness/ ) . '">Child Wellness</a></li>
+                    <!-- <li><a href="' . esc_url( http://jubha-hospital.test/surgery/ ) . '">Surgery</a></li> -->
 
                     
                 </ul>
