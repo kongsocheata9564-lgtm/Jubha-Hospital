@@ -116,20 +116,20 @@
     padding: 40px;
 }
 
-/* .doctor-img {
+.doctor-pic{
   width: 100%;
   height: 100%;
   overflow: hidden;
   background: #6e9fcf;
 }
 
-.doctor-img img {
+.doctor-pic img {
   width: 100%;
   height: 100%;
   object-fit: cover;
-} */
+}
 
-.doctor-img {
+.doctor-pic {
     width: 100%;
     height: 100%;
     overflow: hidden;
@@ -137,7 +137,7 @@
     border-radius: 10px; 
 }
 
-.doctor-img img {
+.doctor-picimg {
     width: 100%;
     height: 100%;
     object-fit: cover;
