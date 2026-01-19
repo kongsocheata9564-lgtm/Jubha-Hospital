@@ -32,7 +32,7 @@
         <ul class="nav-menu">
             <li><a href="http://jubha-hospital.test/">Home</a></li>
 
-            <li><a href="#">Find A Doct</a></li>
+            <li><a href="' . esc_url( http://jubha-hospital.test/find-a-doctor/ ) . '">Find A Doct</a></li>
 
             <!-- <li class="dropdown">
                 <a href="#">Hospital & Clinics <i class="fa-solid fa-chevron-down"></i></a>
