@@ -24,6 +24,18 @@ function appointment_booking_menu() {
     );
 }
 
+function my_custom_submenu_page() {
+    add_submenu_page(
+        'tools.php',           // Parent slug (e.g., 'tools.php', 'options-general.php', 'edit.php')
+        'My Custom Submenu Page', // Page title
+        'Custom Submenu',      // Menu title
+        'manage_options',      // Capability required to see the menu
+        'my-custom-submenu-page', // Menu slug (unique identifier)
+        'my_custom_submenu_page_content' // Callback function to display the page content
+    );
+}
+add_action('admin_menu', 'my_custom_submenu_page');
+
 function appointment_booking_page() {
     echo '<h1>Appointment Booking Plugin</h1>';
     echo '<p>My Plugin<p>';
