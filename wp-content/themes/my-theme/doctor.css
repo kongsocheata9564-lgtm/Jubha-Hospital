@@ -1,0 +1,201 @@
+.page-header-section {
+    background-color: #eef6fb; /* Light blueish/grey background */
+    padding: 60px 0;           /* Vertical spacing */
+    font-family: 'Arial', sans-serif;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+/* Breadcrumb Styling */
+.breadcrumb {
+    margin-bottom: 15px;
+    font-size: 14px;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+}
+
+.breadcrumb-link {
+    color: #1aa3c8; /* Light blue color */
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.breadcrumb-link:hover {
+    color: #0a5ca8;
+}
+
+.breadcrumb-separator {
+    color: #0a5ca8; /* Darker blue color */
+    margin: 0 8px;
+}
+
+.breadcrumb-current {
+    color: #0a5ca8; /* Darker blue color */
+}
+
+/* Title Styling */
+.page-title {
+    color: #0a5ca8;    /* Dark navy blue */
+    font-size: 48px;   /* Large bold font */
+    font-weight: 800;
+    margin: 0;
+    text-transform: uppercase;
+
+
+}
+
+
+/* SIMPLE DOCTOR PROFILE */
+.doctor-simple {
+    background: #f4f6f8;
+    padding: 60px 20px;
+}
+
+.doctor-wrapper {
+    max-width: 1100px;
+    margin: auto;
+    display: flex;
+    gap: 40px;
+    align-items: flex-start;
+}
+
+/* IMAGE */
+.doctor-photo img {
+    width: 320px;
+    border-radius: 15px;
+    box-shadow: 0 8px 25px rgba(0,0,0,0.1);
+}
+
+/* CONTENT */
+.doctor-content h2 {
+    color: #0a5ca8;
+    font-size: 30px;
+}
+
+.doctor-content h4 {
+    color: #1aa3c8;
+    margin: 8px 0 20px;
+}
+
+.doctor-content p {
+    color: #555;
+    line-height: 1.7;
+    margin-bottom: 25px;
+}
+
+/* INFO LIST */
+.doctor-info {
+    list-style: none;
+    padding: 0;
+}
+
+.doctor-info li {
+    margin-bottom: 15px;
+    color: #333;
+    line-height: 1.6;
+}
+
+.doctor-info i {
+    color: #0a5ca8;
+    margin-right: 8px;
+}
+
+/* BUTTON */
+.simple-btn {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 12px 28px;
+    background: #0a5ca8;
+    color: #fff;
+    border-radius: 30px;
+    text-decoration: none;
+}
+
+.simple-btn:hover {
+    background: #1aa3c8;
+}
+
+
+
+.connect-subscribe {
+    background: #f3f9fd;
+    padding: 40px 0;
+}
+
+.connect-subscribe .container {
+    max-width: 1200px;
+    margin: auto;
+    padding: 0 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+/* Left side */
+.connect h3,
+.subscribe h3 {
+    font-size: 20px;
+    font-weight: 600;
+    color: #0b3c5d;
+    margin-bottom: 15px;
+}
+
+.social-icons a {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    width: 38px;
+    height: 38px;
+    margin-right: 40px;
+    background: #0b3c5d;
+    color: #fff;
+    border-radius: 50%;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.social-icons a:hover {
+    background: #1e88e5;
+}
+
+/* Right side */
+.subscribe-form {
+    display: flex;
+    gap: 10px;
+}
+
+.subscribe-form input {
+    width: 400px;
+    padding: 10px 15px;
+    border-radius: 25px;
+    border: 1px solid #ccc;
+    outline: none;
+}
+
+.subscribe-form button {
+    padding: 10px 25px;
+    border-radius: 25px;
+    border: none;
+    background: #0a5ca8;
+    color: #fff;
+    cursor: pointer;
+    font-weight: 500;
+}
+
+.subscribe-form button:hover {
+    background: #3bb4e5;
+}
+
+
+
+
+
+
+
+
+

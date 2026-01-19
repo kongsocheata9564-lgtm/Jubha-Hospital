@@ -4,7 +4,7 @@
 <section class="page-header-section">
     <div class="container">
         <div class="breadcrumb">
-            <a href="' . esc_url( http://jubha-hospital.test/ ) . '" class="breadcrumb-link">HOME</a>
+            <a href="http://jubha-hospital.test/" class="breadcrumb-link">HOME</a>
             <span class="breadcrumb-separator">/</span>
             <span class="breadcrumb-current">PATIENT INFORMATION</span>
         </div>

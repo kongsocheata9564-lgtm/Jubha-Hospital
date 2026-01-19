@@ -187,7 +187,7 @@ tabs.forEach(tab => {
             <img src="<?php echo esc_url( get_stylesheet_directory_uri() . '/asset/dr1.jpg' ); ?>" alt="Director">
                 <div class="card-content">
                     <h3>General Practice</h3>
-                    <a href="#" class="btn-info">View Info →</a>
+                    <a href="' . esc_url( http://jubha-hospital.test/general-practice/ ) . '" class="btn-info">View Info →</a>
                 </div>
             </div>
             
@@ -197,7 +197,7 @@ tabs.forEach(tab => {
                 <img src="<?php echo esc_url( get_stylesheet_directory_uri() . '/asset/dr3.jpg' ); ?>" alt="Director">
                 <div class="card-content">
                     <h3>Maternity</h3>
-                    <a href="#" class="btn-info">View Info →</a>
+                    <a href="' . esc_url( http://jubha-hospital.test/maternity/ ) . '" class="btn-info">View Info →</a>
                 </div>
             </div>
 
@@ -213,8 +213,8 @@ tabs.forEach(tab => {
             <div class="specialty-card">
                 <img src="<?php echo esc_url( get_stylesheet_directory_uri() . '/asset/dr4.jpg' ); ?>" alt="Director">
                 <div class="card-content">
-                    <h3>Padiatric</h3>
-                    <a href="#" class="btn-info">View Info →</a>
+                    <h3>Padiaric</h3>
+                    <a href="' . esc_url( http://jubha-hospital.test/padiatric/ ) . '" class="btn-info">View Info →</a>
                 </div>
             </div>
 
@@ -223,7 +223,7 @@ tabs.forEach(tab => {
             <img src="<?php echo esc_url( get_stylesheet_directory_uri() . '/asset/dr5.jpg' ); ?>" alt="Director">
                 <div class="card-content">
                     <h3>Child Wellness</h3>
-                    <a href="#" class="btn-info">View Info →</a>
+                    <a href="' . esc_url( http://jubha-hospital.test/child-wellness/ ) . '" class="btn-info">View Info →</a>
                 </div>
             </div>
 
@@ -231,8 +231,8 @@ tabs.forEach(tab => {
             <div class="specialty-card">
                 <img src="<?php echo esc_url( get_stylesheet_directory_uri() . '/asset/dr2.jpg' ); ?>" alt="Director">
                 <div class="card-content">
-                    <h3>Maternity</h3>
-                    <a href="#" class="btn-info">View Info →</a>
+                    <h3>Surgery</h3>
+                    <a href="' . esc_url( http://jubha-hospital.test/surgery/ ) . '" class="btn-info">View Info →</a>
                 </div>
             </div>
 

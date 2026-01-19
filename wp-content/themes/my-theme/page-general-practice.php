@@ -10,7 +10,7 @@
             <span class="breadcrumb-separator">/</span>
             <span class="breadcrumb-current">SPECIALTIES</span>
         </div>
-        <h1 class="page-title">SURGERY</h1>
+        <h1 class="page-title">GENERAL PRACTICE</h1>
     </div>
 </section>
 
@@ -22,23 +22,19 @@
             <h2 class="dept-title">About Department</h2>
             <div class="dept-underline"></div>
             <p class="dept-description">
-                <strong>Jubha Hospital</strong> offers a comprehensive range of surgical services
-                to patients of all ages, from neonatal to adult. We boast an international 
-                panel of specialists, with surgeons, anesthesiologists, and well-trained nursing
-                staff from all parts of the globe with a wide range of expertise to provide international
-                standard surgical care for minor or major procedures.
+                <strong>Jubha Hospital</strong> General Practice (OPD) is your primary hub for comprehensive, 
+                patient-centered healthcare. Our department, led by a team of diverse specialists, offers expert
+                diagnosis, treatment, and preventive care for a wide range of medical conditions across all ages. 
             </p>
             <p class="dept-description">
-                The team in the operating theatre works collaboratively with dedicated, talented 
-                nurses both in the operating theatre, as well as in the inpatient, emergency department,
-                and outpatient departments to provide holistic and total care from the start of a patient’s
-                surgical journey until the end. Care is provided in a compassionate, professional, and evidence-based manner.
+                With modern facilities and a focus on convenience, we ensure compassionate and professional care,
+                making us your trusted partner in health.
             </p>
             
         </div>
 
         <div class="dept-image-wrapper">
-            <img src="<?php echo esc_url( get_stylesheet_directory_uri() . '/asset/dr2.jpg' ); ?>" alt="Director" class="dept-img">
+            <img src="<?php echo esc_url( get_stylesheet_directory_uri() . '/asset/dr1.jpg' ); ?>" alt="Director" class="dept-img">
             
         </div>
 

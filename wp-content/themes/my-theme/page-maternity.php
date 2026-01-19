@@ -10,7 +10,7 @@
             <span class="breadcrumb-separator">/</span>
             <span class="breadcrumb-current">SPECIALTIES</span>
         </div>
-        <h1 class="page-title">SURGERY</h1>
+        <h1 class="page-title">MATERNITY</h1>
     </div>
 </section>
 
@@ -22,23 +22,19 @@
             <h2 class="dept-title">About Department</h2>
             <div class="dept-underline"></div>
             <p class="dept-description">
-                <strong>Jubha Hospital</strong> offers a comprehensive range of surgical services
-                to patients of all ages, from neonatal to adult. We boast an international 
-                panel of specialists, with surgeons, anesthesiologists, and well-trained nursing
-                staff from all parts of the globe with a wide range of expertise to provide international
-                standard surgical care for minor or major procedures.
+                <strong>Jubha Hospital</strong> Maternity Department is a beacon of excellence, offering comprehensive,
+                compassionate, and personalized care for expectant mothers and their families. Our renowned OBGYNs, skilled
+                doctors, and dedicated team of midwives and nurses provide expert support from preconception through childbirth and postpartum. 
             </p>
             <p class="dept-description">
-                The team in the operating theatre works collaboratively with dedicated, talented 
-                nurses both in the operating theatre, as well as in the inpatient, emergency department,
-                and outpatient departments to provide holistic and total care from the start of a patient’s
-                surgical journey until the end. Care is provided in a compassionate, professional, and evidence-based manner.
+                We prioritize mother and baby-friendly practices, ensuring a safe, comfortable, and empowering experience in our modern,
+                nurturing environment. Your family’s health and happiness are at the heart of our mission.
             </p>
             
         </div>
 
         <div class="dept-image-wrapper">
-            <img src="<?php echo esc_url( get_stylesheet_directory_uri() . '/asset/dr2.jpg' ); ?>" alt="Director" class="dept-img">
+            <img src="<?php echo esc_url( get_stylesheet_directory_uri() . '/asset/dr3.jpg' ); ?>" alt="Director" class="dept-img">
             
         </div>
 
