@@ -30,7 +30,8 @@
     
     <nav class="navbar">
         <ul class="nav-menu">
-            <li><a href="' . esc_url( http://jubha-hospital.test/ ) . '">Home</a></li>
+            <li><a href="http://jubha-hospital.test/">Home</a></li>
+
             <li><a href="#">Find A Doct</a></li>
 
             <!-- <li class="dropdown">

@@ -6,7 +6,7 @@
 <section class="page-header-section">
     <div class="container">
         <div class="breadcrumb">
-            <a href="' . esc_url( http://jubha-hospital.test/ ) . '" class="breadcrumb-link">HOME</a>
+            <a href="http://jubha-hospital.test/" class="breadcrumb-link">HOME</a>
             <span class="breadcrumb-separator">/</span>
             <span class="breadcrumb-current">SPECIALTIES</span>
         </div>
@@ -109,7 +109,7 @@
                 </div>
                 <h3>Dr. Lan Veasna</h3>
                 <p>General Practitioner & Emergency</p>
-                <a href="#" class="profile-btn">
+                <a href="' . esc_url( http://jubha-hospital.test/doctor-one/ ) . '" class="profile-btn">
                     PROFILE <i class="fas fa-info-circle"></i>
                 </a>
             </div>
@@ -120,7 +120,7 @@
                 </div>
                 <h3>Dr. Huoth Chansomaly</h3>
                 <p>General Practitioner & OBGYN</p>
-                <a href="#" class="profile-btn">
+                <a href="' . esc_url( http://jubha-hospital.test/doctor-two/ ) . '" class="profile-btn">
                     PROFILE <i class="fas fa-info-circle"></i>
                 </a>
             </div>
@@ -131,7 +131,7 @@
                 </div>
                 <h3>Dr. Sakhan Leakhena</h3>
                 <p>General Practitioner & OBGYN</p>
-                <a href="#" class="profile-btn">
+                <a href="' . esc_url( http://jubha-hospital.test/doctor-three/ ) . '" class="profile-btn">
                     PROFILE <i class="fas fa-info-circle"></i>
                 </a>
             </div>
@@ -142,7 +142,7 @@
                 </div>
                 <h3>Dr. Sok Tino</h3>
                 <p>General Practitioner & Emergency</p>
-                <a href="#" class="profile-btn">
+                <a href="' . esc_url( http://jubha-hospital.test/doctor-four/ ) . '" class="profile-btn">
                     PROFILE <i class="fas fa-info-circle"></i>
                 </a>
             </div>
