@@ -15,10 +15,12 @@
         <div class="footer-about">
             <h4>ABOUT JUBHA-HOSPITAL</h4>
             <ul>
-                <li><a href="#">Our Story</a></li>
-                <li><a href="#">News & Events</a></li>
-                <li><a href="#">Job Opportunities</a></li>
-                <li><a href="#">CSR</a></li>
+                <li><a href="http://jubha-hospital.test/">Home</a></li>
+                <li><a href="' . esc_url( http://jubha-hospital.test/find-a-doctor/ ) . '">Find a Doctor</a></li>
+                <li><a href="' . esc_url( http://jubha-hospital.test/in-patient/ ) . '">Patient Information</a></li>
+                <li><a href="' . esc_url( http://jubha-hospital.test/our-story/ ) . '">About Our Hospital</a></li>
+                <li><a href="' . esc_url( http://jubha-hospital.test/specialties/ ) . '">Specialist</a></li>
+                <li><a href="' . esc_url( http://jubha-hospital.test/contact-us/ ) . '">Contact Us</a></li>
             </ul>
         </div>
 

@@ -64,7 +64,7 @@
             </li>
 
             <li class="dropdown">
-                <a href="#">Specialties <i class="fa-solid fa-chevron-down"></i></a>
+                <a href="' . esc_url( http://jubha-hospital.test/specialties/ ) . '">Specialties <i class="fa-solid fa-chevron-down"></i></a>
                 <ul class="dropdown-menu">
                     <li><a href="' . esc_url( http://jubha-hospital.test/surgery/ ) . '">Surgery</a></li>
                     <li><a href="' . esc_url( http://jubha-hospital.test/general-practice/ ) . '">General Practice</a></li>

@@ -491,7 +491,7 @@ function moveRight() {
         </div>
 
         <div class="view-more-wrapper">
-            <a href="#" class="btn-view-more">VIEW MORE <i class="fas fa-chevron-right"></i></a>
+            <a href="' . esc_url( http://jubha-hospital.test/news-event/ ) . '" class="btn-view-more">VIEW MORE <i class="fas fa-chevron-right"></i></a>
         </div>
     </div>
 </section>
