@@ -7,27 +7,25 @@
         </div>
         <h1 class="title">Careers</h1>
     </div>
-   
-    <div class="careers-section">
+   <section class="careers-section">
         <div class="careers-content">
             <h1>Careers</h1>
-
-           <h4>Join Almana Hospitals for a rewarding career in healthcare.</h4>
-
-            <p >
-            We value excellence and innovation. Explore our vacancies and
-            apply online. Together, we deliver exceptional healthcare and
-            improve lives. Join us today. Send your CV to:
+            <div class="subtitle"> <h5>Join Almana Hospitals for a rewarding career in healthcare.</h5></div>
+            <p>
+            We value excellence and innovation. Explore our vacancies and apply online. Together, we deliver exceptional healthcare and improve lives.
             </p>
-
-            <a href=""> </a>
+            <p>
+            Join us today. Send your CV to:<br />
+            <a href="mailto:career@almanahospital.com.sa">jubha Hospital@jubhahospital.com</a>
+            </p>
         </div>
+
 
         <div class="careers-image">
-            <img src="<?php echo esc_url( get_stylesheet_directory_uri() . '/asset/hospital.jpg' ); ?>" alt="Director">
+           <img src="<?php echo esc_url( get_stylesheet_directory_uri() . '/asset/hospital.jpg' ); ?>" alt="Director">
 
         </div>
-</div>
-
+</section>
+      
 
 <?php get_footer(); ?>
