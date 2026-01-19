@@ -1,6 +1,19 @@
 <?php get_header();?>
 <link rel="stylesheet" href="<?php echo get_stylesheet_directory_uri(); ?>/find-a-doctor.css">
 
+
+<section class="page-header-section">
+    <div class="container">
+        <div class="breadcrumb">
+            <a href="http://jubha-hospital.test/" class="breadcrumb-link">HOME</a>
+            <span class="breadcrumb-separator">/</span>
+            <span class="breadcrumb-current">FIND A DOCTOR</A></span>
+        </div>
+        <h1 class="page-title">FIND A DOCTOR</h1>
+    </div>
+</section>
+
+
 <section class="find-doctor">
   <div class="container">
 

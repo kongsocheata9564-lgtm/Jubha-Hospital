@@ -1,3 +1,51 @@
+.page-header-section {
+    background-color: #eef6fb; /* Light blueish/grey background */
+    padding: 60px 0;           /* Vertical spacing */
+    font-family: 'Arial', sans-serif;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+/* Breadcrumb Styling */
+.breadcrumb {
+    margin-bottom: 15px;
+    font-size: 14px;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+}
+
+.breadcrumb-link {
+    color: #1aa3c8; /* Light blue color */
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.breadcrumb-link:hover {
+    color: #0a5ca8;
+}
+
+.breadcrumb-separator {
+    color: #0a5ca8; /* Darker blue color */
+    margin: 0 8px;
+}
+
+.breadcrumb-current {
+    color: #0a5ca8; /* Darker blue color */
+}
+
+/* Title Styling */
+.page-title {
+    color: #0a5ca8;    /* Dark navy blue */
+    font-size: 48px;   /* Large bold font */
+    font-weight: 800;
+    margin: 0;
+    text-transform: uppercase;
+}
+
 .find-doctor {
   padding: 80px 0;
   background: #f8fafc;
