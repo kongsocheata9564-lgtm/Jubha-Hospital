@@ -21,7 +21,7 @@
             </a>
             </div>
 
-            <a href="#" class="user-icon">
+            <a href="' . esc_url( http://jubha-hospital.test/login/ ) . '" class="user-icon">
                 <i class="fa-regular fa-user"></i>
             </a>
         </div>
