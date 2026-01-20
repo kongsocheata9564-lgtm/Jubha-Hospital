@@ -147,13 +147,6 @@
 }
 
 .doctor-pic {
-.doctor-pic img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-}
-
-.doctor-pic {
     width: 100%;
     height: 100%;
     overflow: hidden;
