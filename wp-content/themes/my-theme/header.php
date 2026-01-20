@@ -32,7 +32,9 @@
         <ul class="nav-menu">
             <li><a href="http://jubha-hospital.test/">Home</a></li>
 
-            <li><a href="' . esc_url( http://jubha-hospital.test/find-a-doctor/ ) . '">Find A Doct</a></li>
+                <li>
+                    <a href="<?php echo get_permalink(15); ?>">Find A Doctor</a>
+                    </li>
 
             <!-- <li class="dropdown">
                 <a href="#">Hospital & Clinics <i class="fa-solid fa-chevron-down"></i></a>
@@ -45,9 +47,9 @@
             <li class="dropdown">
                 <a href="#">Patient Information <i class="fa-solid fa-chevron-down"></i></a>
                 <ul class="dropdown-menu">
-                    <li><a href="' . esc_url( http://jubha-hospital.test/in-patient/ ) . '">In Patient</a></li>
-                    <li><a href="' . esc_url( http://jubha-hospital.test/outpatient/ ) . '">Outpatient</a></li>
-                    <li><a href="' . esc_url( http://jubha-hospital.test/visitor-information/ ) . '">Visitor Information</a></li>
+                    <li><a href="<?php echo get_permalink(53); ?>">In Patient</a></li>
+                    <li><a href="<?php echo get_permalink(49); ?>">Outpatient</a></li>
+                    <li><a href="<?php echo get_permalink(30); ?>">Visitor Information</a></li>
                 </ul>
             </li>
 
@@ -63,10 +65,8 @@
                 </ul>
             </li>
 
-            
-
             <li class="dropdown">
-                <a href="' . esc_url( http://jubha-hospital.test/specialties/ ) . '">Specialties <i class="fa-solid fa-chevron-down"></i></a>
+                <a href="#">Specialties <i class="fa-solid fa-chevron-down"></i></a>
                 <ul class="dropdown-menu">
                     <li><a href="' . esc_url( http://jubha-hospital.test/surgery/ ) . '">Surgery</a></li>
                     <li><a href="' . esc_url( http://jubha-hospital.test/general-practice/ ) . '">General Practice</a></li>
