@@ -67,7 +67,7 @@
                 </button>
 
                 <span class="login-note">
-                    Don't have an account? <a href="#">Register here</a>
+                    Don't have an account? <a href="' . esc_url( http://jubha-hospital.test/sign-up/ ) . '">Register here</a>
                 </span>
 
             </form>
