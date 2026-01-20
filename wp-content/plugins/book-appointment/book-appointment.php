@@ -1,26 +1,29 @@
 <?php
 /*
-Plugin Name: Book Appointment
-Description: This is not just a plugin, it symbolizes the hope and enthusiasm of an entire generation summed up in two words sung most famously by Louis Armstrong: Hello, Dolly. When activated you will randomly see a lyric from <cite>Hello, Dolly</cite> in the upper right of your admin screen on every page.
-Author: Cheata
-Version: 1.0.0
-License: ISO 9001 2008
+Plugin Name: appointment-book
+Plugin URI: http://wordpress.org/plugins/hello-dolly/
+Description: This is a plugin for appointment booking.
+Author: chheun nita
+Version: 1.7.2
 */
+if ( ! defined( 'ABSPATH' ) ) {
+    exit;
+}
 
-add_action('admin_menu', 'hospital_menu');
+add_action('admin_menu', 'appointment_book_menu');
 
-function hospital_menu() {
+function appointment_book_menu() {
     add_menu_page(
-        'Book Appointment',
-        'Book Appointment',
+        'appointment-book',
+        'appointment-book',
         'manage_options',
-        'hospital',
+        'appointment-book',
         'hospital_dashboard',
         'dashicons-heart'
     );
 
     add_submenu_page(
-        'hospital',
+        'appointment-book',
         'In Patient',
         'In Patient',
         'manage_options',
@@ -30,14 +33,11 @@ function hospital_menu() {
 }
 
 function hospital_dashboard() {
-    echo '<h1>Hospital</h1>';
+    echo '<h1>Hospital </h1>';
 }
 
 function in_patient_page() {
-    echo '<h1>In Patient</h1>';
+    echo '<h1>In Patient Page</h1>';
     
 }
-
-
-
 
