@@ -30,6 +30,33 @@
 
         </div>
 </section>
+
+
+<section class="connect-subscribe">
+    <div class="container">
+
+        <!-- Left: Social Media -->
+        <div class="connect">
+            <h3>CONNECT WITH US</h3>
+            <div class="social-icons">
+                <a href="#"><i class="fab fa-facebook-f"></i></a>
+                <a href="#"><i class="fab fa-linkedin-in"></i></a>
+                <a href="#"><i class="fab fa-telegram-plane"></i></a>
+                <a href="#"><i class="fab fa-youtube"></i></a>
+            </div>
+        </div>
+
+        <!-- Right: Newsletter -->
+        <div class="subscribe">
+            <h3>SUBSCRIBE OUR NEWSLETTER</h3>
+            <form class="subscribe-form" method="post">
+                <input type="email" placeholder="Enter Your Email..." required>
+                <button type="submit">Subscribe</button>
+            </form>
+        </div>
+
+    </div>
+</section>
       
 
 <?php get_footer(); ?>
