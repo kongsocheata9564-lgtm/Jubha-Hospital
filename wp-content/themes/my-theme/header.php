@@ -12,7 +12,7 @@
         </div>
 
         <div class="top-actions">
-            <a href="' . esc_url( http://jubha-hospital.test/careers/ ) . '" class="careers">Careers</a>
+            <a href="<?php echo get_permalink(36); ?>" class="careers">Careers</a>
 
             <div class="btn">
             <a href="#" class="btn-appointment">
@@ -36,13 +36,7 @@
                     <a href="<?php echo get_permalink(15); ?>">Find A Doctor</a>
                     </li>
 
-            <!-- <li class="dropdown">
-                <a href="#">Hospital & Clinics <i class="fa-solid fa-chevron-down"></i></a>
-                <ul class="dropdown-menu">
-                    <li><a href="#">Hospitals</a></li>
-                    <li><a href="#">Clinics</a></li>
-                </ul>
-            </li> -->
+           
 
             <li class="dropdown">
                 <a href="#">Patient Information <i class="fa-solid fa-chevron-down"></i></a>
@@ -56,10 +50,9 @@
             <li class="dropdown">
                 <a href="#">About Our Hospital <i class="fa-solid fa-chevron-down"></i></a>
                 <ul class="dropdown-menu">
-                    <li><a href="' . esc_url( http://jubha-hospital.test/our-story/ ) . '">Our Story</a></li>
-                    <li><a href="' . esc_url( http://jubha-hospital.test/news-event/ ) . '">News & Event</a></li>
-                    <!-- <li><a href="' . esc_url( http://jubha-hospital.test/specialties/ ) . '">Specialties</a></li> -->
-                    <li><a href="' . esc_url( http://jubha-hospital.test/jubha-shop/ ) . '">Jubha Shop</a></li>
+                    <li><a href="<?php echo get_permalink(41); ?>">Our Story</a></li>
+                    <li><a href="<?php echo get_permalink(47); ?>">News & Event</a></li>
+                    <li><a href="<?php echo get_permalink(43); ?>">Jubha Shop</a></li>
 
                     
                 </ul>
@@ -68,24 +61,17 @@
             <li class="dropdown">
                 <a href="#">Specialties <i class="fa-solid fa-chevron-down"></i></a>
                 <ul class="dropdown-menu">
-                    <li><a href="' . esc_url( http://jubha-hospital.test/surgery/ ) . '">Surgery</a></li>
-                    <li><a href="' . esc_url( http://jubha-hospital.test/general-practice/ ) . '">General Practice</a></li>
-                    <li><a href="' . esc_url( http://jubha-hospital.test/maternity/ ) . '">Maternity</a></li>
-                    <li><a href="' . esc_url( http://jubha-hospital.test/padiatric/ ) . '">Padiatric</a></li>
-                    <li><a href="' . esc_url( http://jubha-hospital.test/child-wellness/ ) . '">Child Wellness</a></li>
-                    <!-- <li><a href="' . esc_url( http://jubha-hospital.test/surgery/ ) . '">Surgery</a></li> -->
-
+                    <li><a href="<?php echo get_permalink(68); ?>">Surgery</a></li>
+                    <li><a href="<?php echo get_permalink(55); ?>">General Practice</a></li>
+                    <li><a href="<?php echo get_permalink(45); ?>">Maternity</a></li>
+                    <li><a href="<?php echo get_permalink(51); ?>">Padiatric</a></li>
+                    <li><a href="<?php echo get_permalink(65); ?>">Child Wellness</a></li>
                     
                 </ul>
             </li>
-            <li><a href="' . esc_url( http://jubha-hospital.test/contact-us/ ) . '">Contact Us</a></li>
+            <li><a href="<?php echo get_permalink(28); ?>">Contact Us</a></li>
             
-            <!-- <li><a href="#">Media</a></li>
-            <li><a href="#">Contact</a></li> -->
-
-            <!-- <li class="highlight">
-                <a href="#">National Day Offers</a>
-            </li> -->
+           
         </ul>
     </nav>
 </header>
