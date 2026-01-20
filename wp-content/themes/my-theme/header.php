@@ -12,7 +12,7 @@
         </div>
 
         <div class="top-actions">
-            <a href="#" class="careers">Careers</a>
+            <a href="' . esc_url( http://jubha-hospital.test/careers/ ) . '" class="careers">Careers</a>
 
             <div class="btn">
             <a href="#" class="btn-appointment">

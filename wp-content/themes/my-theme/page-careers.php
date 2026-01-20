@@ -1,16 +1,20 @@
 
 <link rel="stylesheet" href="<?php echo get_stylesheet_directory_uri(); ?>/css/careers.css">
 <?php get_header();?>
-    <div class="header">
-        <div class="path">
-            <a href="#">Home</a>  <span>/ Careers</span>
+    <section class="page-header-section">
+    <div class="container">
+        <div class="breadcrumb">
+            <a href="http://jubha-hospital.test/" class="breadcrumb-link">HOME</a>
+            <span class="breadcrumb-separator">/</span>
+            <span class="breadcrumb-current">CAREERS</span>
         </div>
-        <h1 class="title">Careers</h1>
+        <h1 class="page-title">CAREERS</h1>
     </div>
+</section>
    <section class="careers-section">
         <div class="careers-content">
             <h1>Careers</h1>
-            <div class="subtitle"> <h5>Join Almana Hospitals for a rewarding career in healthcare.</h5></div>
+            <div class="subtitle"> <h5>Join Jubha Hospitals for a rewarding career in healthcare.</h5></div>
             <p>
             We value excellence and innovation. Explore our vacancies and apply online. Together, we deliver exceptional healthcare and improve lives.
             </p>
