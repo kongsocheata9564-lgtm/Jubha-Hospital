@@ -1,10 +1,9 @@
-<?php get_header(); ?>
 <link rel="stylesheet" href="<?php echo get_stylesheet_directory_uri(); ?>/css/contact.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">  
 
+<?php get_header(); ?>
 
-
-    <section class="page-header-section">
+<section class="page-header-section">
     <div class="container">
         <div class="breadcrumb">
             <a href="http://jubha-hospital.test/" class="breadcrumb-link">HOME</a>
