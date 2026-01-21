@@ -47,7 +47,7 @@
             <li class="dropdown">
                 <a href="#">Patient Information <i class="fa-solid fa-chevron-down"></i></a>
                 <ul class="dropdown-menu">
-                    <li><a href="' . esc_url( http://jubha-hospital.test/inpatient/ ) . '">In Patient</a></li>
+                    <li><a href="' . esc_url( http://jubha-hospital.test/in-patient/ ) . '">In Patient</a></li>
                     <li><a href="' . esc_url( http://jubha-hospital.test/outpatient/ ) . '">Outpatient</a></li>
                     <li><a href="' . esc_url( http://jubha-hospital.test/visitor-information/ ) . '">Visitor Information</a></li>
                 </ul>
