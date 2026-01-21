@@ -17,182 +17,218 @@
 <section class="specialties-section">
     <div class="specialties-slider">
 
-            <div class="specialties-cards">
+        <div class="specialties-cards">
 
-                
-                <div class="specialty-card">
-                    <img src="<?php echo esc_url( get_stylesheet_directory_uri() . '/asset/dr1.jpg' ); ?>" alt="Director">
-                    <div class="card-content">
-                        <h3>Surgery</h3>
-                        <a href="#" class="btn-info">View Info →</a>
-                    </div>
-                </div>
-
-                
-                <div class="specialty-card">
+            
+            <div class="specialty-card">
                 <img src="<?php echo esc_url( get_stylesheet_directory_uri() . '/asset/dr2.jpg' ); ?>" alt="Director">
-                    <div class="card-content">
-                        <h3>General Practice</h3>
-                        <a href="#" class="btn-info">View Info →</a>
-                    </div>
+                <div class="card-content">
+                    <h3>Surgery</h3>
+                    <a href="' . esc_url( http://jubha-hospital.test/surgery/ ) . '" class="btn-info">View Info →</a>
                 </div>
+            </div>
 
-                
-                <div class="specialty-card">
-                    <img src="<?php echo esc_url( get_stylesheet_directory_uri() . '/asset/dr3.jpg' ); ?>" alt="Director">
-                    <div class="card-content">
-                        <h3>Maternity</h3>
-                        <a href="#" class="btn-info">View Info →</a>
-                    </div>
+            
+            <div class="specialty-card">
+            <img src="<?php echo esc_url( get_stylesheet_directory_uri() . '/asset/dr1.jpg' ); ?>" alt="Director">
+                <div class="card-content">
+                    <h3>General Practice</h3>
+                    <a href="' . esc_url( http://jubha-hospital.test/general-practice/ ) . '" class="btn-info">View Info →</a>
                 </div>
+            </div>
 
+            
+            <div class="specialty-card">
+                <img src="<?php echo esc_url( get_stylesheet_directory_uri() . '/asset/dr3.jpg' ); ?>" alt="Director">
+                <div class="card-content">
+                    <h3>Maternity</h3>
+                    <a href="' . esc_url( http://jubha-hospital.test/maternity/ ) . '" class="btn-info">View Info →</a>
+                </div>
             </div>
 
         </div>
+
+    </div>
+
+
+        <div class="specialties-sliders">
+
+        <div class="specialties-cards">
+
+            
+            <div class="specialty-card">
+                <img src="<?php echo esc_url( get_stylesheet_directory_uri() . '/asset/dr4.jpg' ); ?>" alt="Director">
+                <div class="card-content">
+                    <h3>Padiaric</h3>
+                    <a href="' . esc_url( http://jubha-hospital.test/padiatric/ ) . '" class="btn-info">View Info →</a>
+                </div>
+            </div>
+
+            
+            <div class="specialty-card">
+            <img src="<?php echo esc_url( get_stylesheet_directory_uri() . '/asset/dr5.jpg' ); ?>" alt="Director">
+                <div class="card-content">
+                    <h3>Child Wellness</h3>
+                    <a href="' . esc_url( http://jubha-hospital.test/child-wellness/ ) . '" class="btn-info">View Info →</a>
+                </div>
+            </div>
+
+            
+            <div class="specialty-card">
+                <img src="<?php echo esc_url( get_stylesheet_directory_uri() . '/asset/dr2.jpg' ); ?>" alt="Director">
+                <div class="card-content">
+                    <h3>Surgery</h3>
+                    <a href="' . esc_url( http://jubha-hospital.test/surgery/ ) . '" class="btn-info">View Info →</a>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
 
 
         <div class="specialties-slider">
 
-            <div class="specialties-cards">
+        <div class="specialties-cards">
 
-                
-                <div class="specialty-card">
-                    <img src="<?php echo esc_url( get_stylesheet_directory_uri() . '/asset/dr1.jpg' ); ?>" alt="Director">
-                    <div class="card-content">
-                        <h3>Surgery</h3>
-                        <a href="#" class="btn-info">View Info →</a>
-                    </div>
-                </div>
-
-                
-                <div class="specialty-card">
+            
+            <div class="specialty-card">
                 <img src="<?php echo esc_url( get_stylesheet_directory_uri() . '/asset/dr2.jpg' ); ?>" alt="Director">
-                    <div class="card-content">
-                        <h3>General Practice</h3>
-                        <a href="#" class="btn-info">View Info →</a>
-                    </div>
+                <div class="card-content">
+                    <h3>Surgery</h3>
+                    <a href="' . esc_url( http://jubha-hospital.test/surgery/ ) . '" class="btn-info">View Info →</a>
                 </div>
+            </div>
 
-                
-                <div class="specialty-card">
-                    <img src="<?php echo esc_url( get_stylesheet_directory_uri() . '/asset/dr3.jpg' ); ?>" alt="Director">
-                    <div class="card-content">
-                        <h3>Maternity</h3>
-                        <a href="#" class="btn-info">View Info →</a>
-                    </div>
+            
+            <div class="specialty-card">
+            <img src="<?php echo esc_url( get_stylesheet_directory_uri() . '/asset/dr1.jpg' ); ?>" alt="Director">
+                <div class="card-content">
+                    <h3>General Practice</h3>
+                    <a href="' . esc_url( http://jubha-hospital.test/general-practice/ ) . '" class="btn-info">View Info →</a>
                 </div>
+            </div>
 
+            
+            <div class="specialty-card">
+                <img src="<?php echo esc_url( get_stylesheet_directory_uri() . '/asset/dr3.jpg' ); ?>" alt="Director">
+                <div class="card-content">
+                    <h3>Maternity</h3>
+                    <a href="' . esc_url( http://jubha-hospital.test/maternity/ ) . '" class="btn-info">View Info →</a>
+                </div>
             </div>
 
         </div>
+
+    </div>
+
+
+        <div class="specialties-sliders">
+
+        <div class="specialties-cards">
+
+            
+            <div class="specialty-card">
+                <img src="<?php echo esc_url( get_stylesheet_directory_uri() . '/asset/dr4.jpg' ); ?>" alt="Director">
+                <div class="card-content">
+                    <h3>Padiaric</h3>
+                    <a href="' . esc_url( http://jubha-hospital.test/padiatric/ ) . '" class="btn-info">View Info →</a>
+                </div>
+            </div>
+
+            
+            <div class="specialty-card">
+            <img src="<?php echo esc_url( get_stylesheet_directory_uri() . '/asset/dr5.jpg' ); ?>" alt="Director">
+                <div class="card-content">
+                    <h3>Child Wellness</h3>
+                    <a href="' . esc_url( http://jubha-hospital.test/child-wellness/ ) . '" class="btn-info">View Info →</a>
+                </div>
+            </div>
+
+            
+            <div class="specialty-card">
+                <img src="<?php echo esc_url( get_stylesheet_directory_uri() . '/asset/dr2.jpg' ); ?>" alt="Director">
+                <div class="card-content">
+                    <h3>Surgery</h3>
+                    <a href="' . esc_url( http://jubha-hospital.test/surgery/ ) . '" class="btn-info">View Info →</a>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
 
 
         <div class="specialties-slider">
 
-            <div class="specialties-cards">
+        <div class="specialties-cards">
 
-                
-                <div class="specialty-card">
-                    <img src="<?php echo esc_url( get_stylesheet_directory_uri() . '/asset/dr1.jpg' ); ?>" alt="Director">
-                    <div class="card-content">
-                        <h3>Surgery</h3>
-                        <a href="#" class="btn-info">View Info →</a>
-                    </div>
-                </div>
-
-                
-                <div class="specialty-card">
+            
+            <div class="specialty-card">
                 <img src="<?php echo esc_url( get_stylesheet_directory_uri() . '/asset/dr2.jpg' ); ?>" alt="Director">
-                    <div class="card-content">
-                        <h3>General Practice</h3>
-                        <a href="#" class="btn-info">View Info →</a>
-                    </div>
+                <div class="card-content">
+                    <h3>Surgery</h3>
+                    <a href="' . esc_url( http://jubha-hospital.test/surgery/ ) . '" class="btn-info">View Info →</a>
                 </div>
+            </div>
 
-                
-                <div class="specialty-card">
-                    <img src="<?php echo esc_url( get_stylesheet_directory_uri() . '/asset/dr3.jpg' ); ?>" alt="Director">
-                    <div class="card-content">
-                        <h3>Maternity</h3>
-                        <a href="#" class="btn-info">View Info →</a>
-                    </div>
+            
+            <div class="specialty-card">
+            <img src="<?php echo esc_url( get_stylesheet_directory_uri() . '/asset/dr1.jpg' ); ?>" alt="Director">
+                <div class="card-content">
+                    <h3>General Practice</h3>
+                    <a href="' . esc_url( http://jubha-hospital.test/general-practice/ ) . '" class="btn-info">View Info →</a>
                 </div>
+            </div>
 
+            
+            <div class="specialty-card">
+                <img src="<?php echo esc_url( get_stylesheet_directory_uri() . '/asset/dr3.jpg' ); ?>" alt="Director">
+                <div class="card-content">
+                    <h3>Maternity</h3>
+                    <a href="' . esc_url( http://jubha-hospital.test/maternity/ ) . '" class="btn-info">View Info →</a>
+                </div>
             </div>
 
         </div>
 
+    </div>
 
-        <div class="specialties-slider">
 
-            <div class="specialties-cards">
+        <div class="specialties-sliders">
 
-                
-                <div class="specialty-card">
-                    <img src="<?php echo esc_url( get_stylesheet_directory_uri() . '/asset/dr1.jpg' ); ?>" alt="Director">
-                    <div class="card-content">
-                        <h3>Surgery</h3>
-                        <a href="#" class="btn-info">View Info →</a>
-                    </div>
+        <div class="specialties-cards">
+
+            
+            <div class="specialty-card">
+                <img src="<?php echo esc_url( get_stylesheet_directory_uri() . '/asset/dr4.jpg' ); ?>" alt="Director">
+                <div class="card-content">
+                    <h3>Padiaric</h3>
+                    <a href="' . esc_url( http://jubha-hospital.test/padiatric/ ) . '" class="btn-info">View Info →</a>
                 </div>
+            </div>
 
-                
-                <div class="specialty-card">
+            
+            <div class="specialty-card">
+            <img src="<?php echo esc_url( get_stylesheet_directory_uri() . '/asset/dr5.jpg' ); ?>" alt="Director">
+                <div class="card-content">
+                    <h3>Child Wellness</h3>
+                    <a href="' . esc_url( http://jubha-hospital.test/child-wellness/ ) . '" class="btn-info">View Info →</a>
+                </div>
+            </div>
+
+            
+            <div class="specialty-card">
                 <img src="<?php echo esc_url( get_stylesheet_directory_uri() . '/asset/dr2.jpg' ); ?>" alt="Director">
-                    <div class="card-content">
-                        <h3>General Practice</h3>
-                        <a href="#" class="btn-info">View Info →</a>
-                    </div>
+                <div class="card-content">
+                    <h3>Surgery</h3>
+                    <a href="' . esc_url( http://jubha-hospital.test/surgery/ ) . '" class="btn-info">View Info →</a>
                 </div>
-
-                
-                <div class="specialty-card">
-                    <img src="<?php echo esc_url( get_stylesheet_directory_uri() . '/asset/dr3.jpg' ); ?>" alt="Director">
-                    <div class="card-content">
-                        <h3>Maternity</h3>
-                        <a href="#" class="btn-info">View Info →</a>
-                    </div>
-                </div>
-
             </div>
 
         </div>
 
-
-        <div class="specialties-slider">
-
-            <div class="specialties-cards">
-
-                
-                <div class="specialty-card">
-                    <img src="<?php echo esc_url( get_stylesheet_directory_uri() . '/asset/dr1.jpg' ); ?>" alt="Director">
-                    <div class="card-content">
-                        <h3>Surgery</h3>
-                        <a href="#" class="btn-info">View Info →</a>
-                    </div>
-                </div>
-
-                
-                <div class="specialty-card">
-                <img src="<?php echo esc_url( get_stylesheet_directory_uri() . '/asset/dr2.jpg' ); ?>" alt="Director">
-                    <div class="card-content">
-                        <h3>General Practice</h3>
-                        <a href="#" class="btn-info">View Info →</a>
-                    </div>
-                </div>
-
-                
-                <div class="specialty-card">
-                    <img src="<?php echo esc_url( get_stylesheet_directory_uri() . '/asset/dr3.jpg' ); ?>" alt="Director">
-                    <div class="card-content">
-                        <h3>Maternity</h3>
-                        <a href="#" class="btn-info">View Info →</a>
-                    </div>
-                </div>
-
-            </div>
-
-        </div>
+    </div>
 
 
         
